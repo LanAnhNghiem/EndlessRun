@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EndlessRun", "EndlessRun.csproj", "{2B865A00-FD25-D621-AB36-FDFDA4B99132}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EndlessRun.Editor", "EndlessRun.Editor.csproj", "{3EFE2544-44D4-5964-712A-877AD9BA50E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B865A00-FD25-D621-AB36-FDFDA4B99132}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B865A00-FD25-D621-AB36-FDFDA4B99132}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B865A00-FD25-D621-AB36-FDFDA4B99132}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B865A00-FD25-D621-AB36-FDFDA4B99132}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EFE2544-44D4-5964-712A-877AD9BA50E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EFE2544-44D4-5964-712A-877AD9BA50E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EFE2544-44D4-5964-712A-877AD9BA50E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EFE2544-44D4-5964-712A-877AD9BA50E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
